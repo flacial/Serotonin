@@ -6,7 +6,7 @@ Think of it as a google drive, but meant for collaboration, file storing, and a 
 
 - We'll store our files in it
 - Create [[Pull Requests]], review, and merge them
-- Create a pipeline that takes our code and make a build that we can install and try whenever we want
+- Create a pipeline that t[[Courses]]akes our code and make a build that we can install and try whenever we want
 - Create issues/projects and discuss them there
 - Assign each other tasks and work towards them
 
